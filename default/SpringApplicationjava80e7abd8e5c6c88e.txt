@@ -1,0 +1,1 @@
+{"version":"80e7abd8e5c6c88e","fileName":"SpringApplication.java","fileSimpleName":"SpringApplication","fileType":"java","notes":{"277":"ClassUtils.isPresent是根据全类名判断类是否存在","266":"此时的resourceLoader为空","269":"获取web的类型","287":"最终会判断类型为servlet"}}
